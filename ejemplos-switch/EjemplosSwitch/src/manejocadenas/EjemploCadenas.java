@@ -13,7 +13,9 @@ public class EjemploCadenas {
     public static void main(String[] args) {
         String ciudad = "loJa";
         ciudad = ciudad.toUpperCase();
+        //convierte una cadena en Mayuscula "LOJA"
         System.out.printf("%s\n", ciudad.toLowerCase());
+        // convierte una cadena a minuscula "loja"
         System.out.printf("%s\n", ciudad.toUpperCase());
         System.out.printf("%s\n", ciudad);
         

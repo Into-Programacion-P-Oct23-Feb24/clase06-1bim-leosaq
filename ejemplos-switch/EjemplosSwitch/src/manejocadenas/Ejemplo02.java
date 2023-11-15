@@ -15,7 +15,9 @@ public class Ejemplo02 {
         String pais;
         
         pais = "Ecuador";
-        char letra = pais.charAt(0); //sirve para escoger o dar numero a un caracter en especifico ya sea de una palabra 
+        char letra = pais.charAt(0);
+        //sirve para escoger o dar numero a un caracter en especifico ya sea
+        //de una palabra 
         System.out.printf("%s\n", letra);
         
     }
